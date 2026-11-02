@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="368" viewBox="0 0 1280 368" role="img" aria-labelledby="title desc">
+  <title id="title">Фёдор Никулин — стажёр-разработчик</title>
+  <desc id="desc">Python и Django, React и Next.js. Веб-приложения, API и интеграции. Открыт к стажировке.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d34"/><stop offset="1" stop-color="#101625"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2861e8" stop-opacity=".3"/><stop offset="1" stop-color="#2861e8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#73abff"/><stop offset="1" stop-color="#a9caff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b1c7fa" stroke-opacity=".045"/></pattern>
+    <clipPath id="frame"><rect width="1280" height="368" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="368" fill="url(#background)"/>
+    <ellipse cx="1110" cy="45" rx="480" ry="400" fill="url(#glow)"/>
+    <rect width="1280" height="368" fill="url(#grid)"/>
+    <path d="M827 -50C720 62 757 166 984 191S1345 280 1238 428" fill="none" stroke="#6b98ff" stroke-opacity=".1" stroke-width="1"/>
+    <path d="M870 -50C761 62 800 166 1027 191S1388 280 1281 428" fill="none" stroke="#6b98ff" stroke-opacity=".07" stroke-width="1"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+      <text x="58" y="63" fill="#a0b5d8" font-size="12" font-weight="600" letter-spacing="2.4">ВЕБ-ПРИЛОЖЕНИЯ / API / ИНТЕГРАЦИИ</text>
+      <text x="54" y="142" fill="#f2f6ff" font-size="58" font-weight="750" letter-spacing="-1.5">Фёдор Никулин</text>
+      <text x="58" y="187" fill="url(#accent)" font-size="27" font-weight="500">Стажёр-разработчик</text>
+      <text x="58" y="237" fill="#bac8df" font-size="18">Python / Django</text>
+      <circle cx="219" cy="231" r="2" fill="#6282b6"/>
+      <text x="236" y="237" fill="#bac8df" font-size="18">React / Next.js</text>
+      <rect x="57" y="278" width="252" height="36" rx="18" fill="#102f32" stroke="#3c796f" stroke-opacity=".6"/>
+      <circle cx="76" cy="296" r="4" fill="#72d8b1"/>
+      <text x="90" y="301" fill="#a2e2ca" font-size="11" font-weight="600" letter-spacing="1">ОТКРЫТ К СТАЖИРОВКЕ</text>
+    </g>
+    <g transform="translate(746 70)">
+      <rect x="7" y="12" width="478" height="244" rx="15" fill="#000" opacity=".18"/>
+      <rect width="478" height="244" rx="15" fill="#121c2e" stroke="#304363"/>
+      <path d="M0 44H478" stroke="#293a56"/>
+      <circle cx="23" cy="22" r="4" fill="#f08383"/><circle cx="39" cy="22" r="4" fill="#e7c376"/><circle cx="55" cy="22" r="4" fill="#76bfaa"/>
+      <text x="80" y="26" font-family="'SFMono-Regular',Consolas,monospace" font-size="11" fill="#859abc">developer.py</text>
+      <g font-family="'SFMono-Regular',Consolas,monospace" font-size="15" xml:space="preserve">
+        <g fill="#526985" text-anchor="end"><text x="30" y="85">1</text><text x="30" y="116">2</text><text x="30" y="147">3</text><text x="30" y="178">4</text><text x="30" y="209">5</text></g>
+        <text x="50" y="85"><tspan fill="#ad9bff">def </tspan><tspan fill="#94bcff">build_project</tspan><tspan fill="#bdcce3">():</tspan></text>
+        <text x="50" y="116" fill="#bdcce3">    <tspan fill="#ad9bff">return </tspan>{</text>
+        <text x="50" y="147" fill="#bdcce3">        <tspan fill="#89d4bb">"backend"</tspan>: <tspan fill="#e5c58a">"Django"</tspan>,</text>
+        <text x="50" y="178" fill="#bdcce3">        <tspan fill="#89d4bb">"frontend"</tspan>: <tspan fill="#e5c58a">"React"</tspan>,</text>
+        <text x="50" y="209" fill="#bdcce3">    }</text>
+      </g>
+    </g>
+  </g>
+</svg>
