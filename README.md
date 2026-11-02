@@ -10,16 +10,16 @@
 
 ## Стек
 
-**Backend** &nbsp; `Python` `Django` `Django REST Framework` `REST API` `JWT`  
-**Frontend** &nbsp; `JavaScript` `TypeScript` `React` `Next.js` `HTML / CSS` `Tailwind CSS`  
-**Данные и desktop** &nbsp; `SQL` `SQLite` `SQL Server` `C#` `WinForms` `Entity Framework`  
+**Backend** &nbsp; `Python` `Django` `Django REST Framework` `REST API` `JWT`<br>
+**Frontend** &nbsp; `JavaScript` `TypeScript` `React` `Next.js` `HTML / CSS` `Tailwind CSS`<br>
+**Данные и desktop** &nbsp; `SQL` `SQLite` `SQL Server` `C#` `WinForms` `Entity Framework`<br>
 **Инструменты** &nbsp; `Git` `GitHub` `Postman` `VS Code` `Visual Studio`
 
 ## Проекты
 
 ### [ДоскаСВФУ](https://github.com/fedornikulin1/kursovaya)
 
-**Университетский маркетплейс · проект для ВКР**  
+**Университетский маркетплейс · проект для ВКР**<br>
 `Python` `Django` `DRF` `SQLite` `JavaScript`
 
 Объявления, фотографии, поиск, избранное, приватные диалоги, отзывы и поддержка. Студенческий сценарий — **учебный обмен**: запросы по предмету и семестру, подбор предложений, бронирование встреч в кампусе и возврат вещей.
@@ -36,7 +36,7 @@
 
 ### [Продукт Радар](https://github.com/fedornikulin1/product-radar/tree/backup/before-unchecked-main)
 
-**Каталог проектов для Корпорации развития Якутии · практика и стажировка**  
+**Каталог проектов для Корпорации развития Якутии · практика и стажировка**<br>
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Битрикс24 REST API`
 
 Витрина проектов, MVP и стартапов: поиск и фильтры, карточки, интерактивная карта Якутии, административная панель и CRUD проектов. Есть загрузка логотипов и презентаций.
@@ -55,7 +55,7 @@
 
 ### [Учёт компьютерной техники ИМИ](https://github.com/fedornikulin1/projectBD)
 
-**Desktop-приложение для учёта оборудования**  
+**Desktop-приложение для учёта оборудования**<br>
 `C#` `WinForms` `Entity Framework 6` `SQL Server LocalDB` `LINQ`
 
 Реляционная БД из 11 таблиц, CRUD оборудования, учёт ремонтов и перемещений, поиск, отчёты Excel и генерация Word-документов. В мини-команде участвовал в разработке и распределении задач.
